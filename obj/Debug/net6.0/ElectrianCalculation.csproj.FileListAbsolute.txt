@@ -1,0 +1,15 @@
+C:\Users\yujin\OneDrive\Área de Trabalho\OOP\ElectrianCalculation\ElectrianCalculation\bin\Debug\net6.0\ElectrianCalculation.exe
+C:\Users\yujin\OneDrive\Área de Trabalho\OOP\ElectrianCalculation\ElectrianCalculation\bin\Debug\net6.0\ElectrianCalculation.deps.json
+C:\Users\yujin\OneDrive\Área de Trabalho\OOP\ElectrianCalculation\ElectrianCalculation\bin\Debug\net6.0\ElectrianCalculation.runtimeconfig.json
+C:\Users\yujin\OneDrive\Área de Trabalho\OOP\ElectrianCalculation\ElectrianCalculation\bin\Debug\net6.0\ElectrianCalculation.dll
+C:\Users\yujin\OneDrive\Área de Trabalho\OOP\ElectrianCalculation\ElectrianCalculation\bin\Debug\net6.0\ElectrianCalculation.pdb
+C:\Users\yujin\OneDrive\Área de Trabalho\OOP\ElectrianCalculation\ElectrianCalculation\obj\Debug\net6.0\ElectrianCalculation.csproj.AssemblyReference.cache
+C:\Users\yujin\OneDrive\Área de Trabalho\OOP\ElectrianCalculation\ElectrianCalculation\obj\Debug\net6.0\ElectrianCalculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yujin\OneDrive\Área de Trabalho\OOP\ElectrianCalculation\ElectrianCalculation\obj\Debug\net6.0\ElectrianCalculation.AssemblyInfoInputs.cache
+C:\Users\yujin\OneDrive\Área de Trabalho\OOP\ElectrianCalculation\ElectrianCalculation\obj\Debug\net6.0\ElectrianCalculation.AssemblyInfo.cs
+C:\Users\yujin\OneDrive\Área de Trabalho\OOP\ElectrianCalculation\ElectrianCalculation\obj\Debug\net6.0\ElectrianCalculation.csproj.CoreCompileInputs.cache
+C:\Users\yujin\OneDrive\Área de Trabalho\OOP\ElectrianCalculation\ElectrianCalculation\obj\Debug\net6.0\ElectrianCalculation.dll
+C:\Users\yujin\OneDrive\Área de Trabalho\OOP\ElectrianCalculation\ElectrianCalculation\obj\Debug\net6.0\refint\ElectrianCalculation.dll
+C:\Users\yujin\OneDrive\Área de Trabalho\OOP\ElectrianCalculation\ElectrianCalculation\obj\Debug\net6.0\ElectrianCalculation.pdb
+C:\Users\yujin\OneDrive\Área de Trabalho\OOP\ElectrianCalculation\ElectrianCalculation\obj\Debug\net6.0\ElectrianCalculation.genruntimeconfig.cache
+C:\Users\yujin\OneDrive\Área de Trabalho\OOP\ElectrianCalculation\ElectrianCalculation\obj\Debug\net6.0\ref\ElectrianCalculation.dll
